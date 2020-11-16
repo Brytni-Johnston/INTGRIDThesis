@@ -12,4 +12,4 @@ The repository's jupyter notebooks are meant to be run in numerical order. The f
 (4_4) ~72 hours
 (5) ~5 minutes
 
-Before running file (1), 'elec_s.nc' must be downloaded from https://zenodo.org/record/3601882#.X56rVohKi00 and added to the Network_Data folder. This file is not included with the rest of the data files due to size. 
+Before running file (1), 'elec_s.nc' must be downloaded from https://zenodo.org/record/3601882#.X56rVohKi00 and added to the Network_Data folder. This file is not included with the rest of the data files due to size. Similarly, 'renewable_power_plants_EU.csv' must be downloaded from https://data.open-power-system-data.org/renewable_power_plants/ (must first be filtered for 'WIND' and 'SOLAR' tags) and added to Network_Data.
